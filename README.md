@@ -31,7 +31,7 @@ This is a Python-based simulation of a coffee machine, implemented as a practice
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vadikzhuk/coffee_machine
+   git clone https://github.com/vadikzhuk/coffee_machine.git
 1. Run the program:
    ```bash
    python3 main.py
